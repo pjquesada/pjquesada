@@ -22,7 +22,7 @@
 I am a forward-thinking and methodical Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> learning new skills every day.
 
 - 🔭 I’m currently working on getting a job as a software engineer.
-- 🌱 I’m currently learning Java, Javascript, HTML, CSS, and Ruby on Rails.
+- 🌱 I’m currently learning Penetration Testing.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pablojquesada">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
