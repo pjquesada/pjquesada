@@ -19,10 +19,10 @@
 
 ### :man_technologist: About Me : 
 
-I am a forward-thinking and methodical Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> learning new skills every day.
+I am a forward-thinking and methodical Electrical Engineer with a passion for Software Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m currently working on getting a job as a software engineer.
-- 🌱 I’m currently learning Penetration Testing and AWS Cloud.
+- 🔭 I’m currently working on improving my software development and cybersecurity skills.
+- 🌱 I’m currently learning COMPTIAA for IT and cybersecurity and AWS Cloud.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/pablojquesada">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
